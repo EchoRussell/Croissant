@@ -5,3 +5,21 @@ body {
 h1 {
   color: #1b2845;
 }
+
+h1,
+h2,
+h3,
+p {
+  text-align: center;
+}
+
+.croissant {
+  display: block;
+  margin: 0 auto;
+}
+
+.contact-link,
+.photo-link,
+.homepage-link {
+  text-align: center;
+}
